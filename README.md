@@ -119,47 +119,6 @@ Sui is a high-performance Layer 1 blockchain built by Mysten Labs — the team b
 
 ---
 
-## Using VS Code for This Workshop
-
-All file editing in this workshop is done through **Visual Studio Code (VS Code)**. It is your main workspace.
-
-### Opening the Terminal inside VS Code
-
-Instead of opening a separate PowerShell window, use the built-in terminal:
-
-1. Open VS Code
-2. Click **Terminal** in the top menu bar
-3. Click **New Terminal**
-4. A PowerShell terminal appears at the bottom of the screen
-
-> **From Step 2 onwards, run all commands in this VS Code terminal.** The only exception is Step 1, which requires a separate Administrator PowerShell window. Once Step 1 is done, close that window and use the VS Code terminal for everything else.
-
-### Recommended VS Code Extensions
-
-Install these from the Extensions panel (`Ctrl + Shift + X`):
-
-| Extension | Purpose |
-|---|---|
-| **Move (Mysten Labs)** | Syntax highlighting for `.move` files |
-| **GitLens** | Easier git management |
-| **Prettier** | Code formatting |
-
----
-
-## Things to Save in Notepad
-
-You will collect several critical values throughout this workshop. Save each one in Notepad as you go — you will need all of them.
-
-| # | What to save | When you get it |
-|---|---|---|
-| 1 | Secret Recovery Phrase | Step 3 |
-| 2 | Wallet Address | Step 3 |
-| 3 | Package ID | Step 5, after publishing |
-| 4 | Object ID | Step 6, after deploying your portfolio |
-| 5 | GitHub Personal Access Token | Step 8, if Git asks for a password |
-
----
-
 ## Pre-Installation Notice (Partner Schools)
 
 If you are attending at a **partner school workstation**, the tools below are already installed. Skip to **Step 2: Create Your Accounts** and proceed from there.
